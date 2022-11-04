@@ -10,7 +10,7 @@ after that, you need to make him executable.
 
 ## Usage :
   - Select File and Directory
-  - Right Mouse Click, select 'Sortify files.py' in Script sub menu
+  - Right Mouse Click, select 'SortPyFiles.py' in Script sub menu
   - Files will be shorted by extention name.
   - Directories and Unrecognized files will be move in 'Messy folder'
   
