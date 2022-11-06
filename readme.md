@@ -1,7 +1,7 @@
 # SortPyFiles
-### A nautilus python script who identify your files and sort in appropriate folders
+*A nautilus python script who identify your files and sort them in appropriate folders*
 
-This script is for Nautilus or other Linux File manager who can use python script.
+This script is for **Nautilus** or other **Linux File manager** who can use python script.
 It can be short File by categories. If dir not exist, creat him and move file with good .extention in him.
 It's very helpfull for download dir shorting or others...
 
